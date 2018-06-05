@@ -1,0 +1,176 @@
+.jumbotron {
+      background-color: #166FB2 ;
+      color: #fff;
+  }
+
+.navbar {
+    margin-bottom: 0;
+    background-color:#166FB2;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+}
+
+
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #166FB2 !important;
+    background-color: #fff !important;
+}
+
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+
+.bg-grey {
+    background-color: #f6f6f6;
+    padding: 60px 80px;
+}
+
+.container-fluid {
+    padding: 60px 80px;
+}
+.container-admin{
+    padding: 60px 80px;
+}
+
+
+
+
+.container-visitor{
+  padding: 60px 80px;
+}
+
+.bouton-contact{
+  background-color: #166FB2;
+  color: #fff;
+  width: 70px;
+  cursor: pointer;
+  font-size: 12px;
+  border-radius: 5px 5px 5px 5px;
+  padding: 8px 12px;
+  position: relative;
+  top: 0;
+  left:1%
+}
+
+.logo {
+    font-size: 200px;
+}
+
+.logo-small {
+    color: #F20000;
+    font-size: 50px;
+}
+
+
+.logo {
+    color: #F20000;
+    font-size: 200px;
+}
+
+.leftcontact {
+  width:49.5%; 
+  float:left;
+  border-right: 1px dotted #CCC;
+  box-sizing: border-box;
+  padding: 0px 15px 0px 0px;
+}
+
+.rightcontact {
+  width:49.5%;
+  float:right;
+  box-sizing: border-box;
+  padding: 0px 0px 0px 15px;
+}
+
+.textarea {
+  border-radius: 0px 5px 5px 0px;
+  border: 1px solid #EEE;
+  margin: 0;
+  width: 75%;
+  height: 130px; 
+  float: left;
+  padding: 0px 15px;
+}
+
+
+
+.form-group {
+  overflow: hidden;
+  clear: both;
+}
+
+.icon{
+  color: #f4511e;
+}
+
+
+.i {
+  color:#555;
+}
+}
+    .drop
+{
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 160px;
+    padding: 5px 0;
+    margin: 2px 0 0;
+    font-size: 14px;
+    text-align: left;
+    list-style: none;
+    background-color:black;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: 4px;
+    -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+}
+
+
+/*@media screen and (max-width: 768px) {
+    .col-sm-4 {
+        text-align: center;
+        margin: 25px 0;
+    }
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 4px;
+}
+input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 4px;
+}
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 4px;
+}*/
